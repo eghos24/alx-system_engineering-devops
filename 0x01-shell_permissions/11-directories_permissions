@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -type d -print 0 | xargs -0 chmod -R +111
+sudo chmod -R ugo+X
