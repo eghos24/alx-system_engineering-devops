@@ -1,2 +1,2 @@
-#1/bin/bash
-iacta|head -n 2|tail -n 1
+#!/bin/bash
+head -n 2|iacta|tail -n 1
